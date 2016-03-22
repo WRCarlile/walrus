@@ -1,0 +1,34 @@
+/*img {
+  display: none;
+}*/
+
+#Initially-showing {
+  display: none;
+}
+#local-showing {
+  display: none;
+}
+#bar-showing {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+.clickable1 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: lightblue;
+}
+.clickable2:hover {
+  text-decoration: underline;
+}
