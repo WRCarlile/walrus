@@ -32,3 +32,12 @@
 .clickable2:hover {
   text-decoration: underline;
 }
+.red-background {
+  background-color: red;
+  }
+.blue-background {
+  background-color: blue;
+}
+.green-background {
+  background-color: green;
+}
