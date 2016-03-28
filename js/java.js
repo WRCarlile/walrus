@@ -1,7 +1,11 @@
 $(document).ready(function() {
-  // $("h1").dblclick(function() {
-  //   alert("This is a header.");
-  // });
+
+  var array =["h1","h2","p","img"]
+    array.forEach(function(x) {
+      $(x).click(function() {
+        alert(x);
+    });
+  });
   $(".clickable").click(function() {
     $("#Initially-hidden").slideToggle();
     $("#Initially-showing").slideToggle();
